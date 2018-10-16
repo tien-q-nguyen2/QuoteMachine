@@ -1,3 +1,3 @@
 # QuoteMachine
 
-Link to deployed website: https://quotemachine-dnqqrtscqw.now.sh/
+Link to deployed website: https://quotemachine-acgywcfseg.now.sh/
