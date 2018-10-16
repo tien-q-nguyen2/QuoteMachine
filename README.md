@@ -1,3 +1,3 @@
 # QuoteMachine
 
-Link to deployed website: https://quotemachine-acgywcfseg.now.sh/
+Link to the Quote Machine: https://tien-q-nguyen2.github.io/QuoteMachine/
