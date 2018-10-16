@@ -37,7 +37,7 @@ header {
     align-items: center;
     justify-content: center;
 
-    background: rgb(252,188,128);
+    background: rgba(252,188,128,0.75);
 }
 
 .quote-nav > a {
@@ -77,7 +77,7 @@ header h1 {
 .quote-container {
     width: 90%;
     display: inline-block;
-    background: rgb(234,150,116);
+    background: rgb(234,150,116,0.75);
     color: #333;
 
     padding: 60px;
